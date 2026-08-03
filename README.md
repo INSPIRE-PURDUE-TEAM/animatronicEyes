@@ -78,13 +78,13 @@ Follow these instructions to clone this project from GitHub and upload the firmw
    git clone [https://github.com/INSPIRE-PURDUE-TEAM/animatronicEyes.git](https://github.com/INSPIRE-PURDUE-TEAM/animatronicEyes.git)
 4. Go to File > Open Folder... and select the newly created animatronicEyes folder.
 
-Step 4: Build and Upload the Code
-Auto-Configuration: Because the repository includes a platformio.ini file, PlatformIO will automatically detect it. Wait a minute or two as it automatically downloads the ESP32 framework, the C++ compiler, and all required libraries (like ServoEasing).
+### Step 4: Build and Upload the Code
+1. Auto-Configuration: Because the repository includes a platformio.ini file, PlatformIO will automatically detect it. Wait a minute or two as it automatically downloads the ESP32 framework, the C++ compiler, and all required libraries (like ServoEasing).
 
-Connect the Hardware: Plug your ESP32 into your computer using a data-capable USB cable.
+2. Connect the Hardware: Plug your ESP32 into your computer using a data-capable USB cable.
 
-Build: Look at the very bottom blue status bar in VS Code. Click the Checkmark icon (✓) to compile the code and ensure there are no errors.
+3. Build: Look at the very bottom blue status bar in VS Code. Click the Checkmark icon (✓) to compile the code and ensure there are no errors.
 
-Upload: Click the Right Arrow icon (→) right next to the checkmark to upload the compiled firmware directly to the ESP32.
+4. Upload: Click the Right Arrow icon (→) right next to the checkmark to upload the compiled firmware directly to the ESP32.
 
-Troubleshooting: If the upload fails to connect, you may need to hold down the physical BOOT button on your ESP32 board while it tries to connect.
+5. Troubleshooting: If the upload fails to connect, you may need to hold down the physical BOOT button on your ESP32 board while it tries to connect.
