@@ -94,4 +94,4 @@ Follow these instructions to clone this project from GitHub and upload the firmw
 2. To get the 'Hand Tracking' to work, run the 'webcamBodyTracker.py' script in the VS Code Terminal.
 3. If the microbit needs to be changed: Go to Line 51 in 'MicrobitBLE.h' and change the device name to the name of the microbit to be used
 
-Thankyou!
+### ~ Created By Saket Kanagal
