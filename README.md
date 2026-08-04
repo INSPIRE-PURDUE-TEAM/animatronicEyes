@@ -90,7 +90,7 @@ Follow these instructions to clone this project from GitHub and upload the firmw
 5. Troubleshooting: If the upload fails to connect, you may need to hold down the physical BOOT button on your ESP32 board while it tries to connect.
 
 ### Important Notes:
-1. Always plug turn on the microbit before powering the ESP32
+1. Always turn on the Microbit before powering the ESP32
 2. To get the 'Hand Tracking' to work, run the 'webcamBodyTracker.py' script in the VS Code Terminal.
 3. If the microbit needs to be changed: Go to Line 51 in 'MicrobitBLE.h' and change the device name to the name of the microbit to be used
 
